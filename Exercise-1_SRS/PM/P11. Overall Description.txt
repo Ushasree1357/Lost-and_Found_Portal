@@ -1,0 +1,23 @@
+2. Overall Description:
+
+2.1 Product Perspective
+The system is a standalone web-based application designed to support campus lost and found operations through centralized online reporting and matching.
+2.2 Product Functions
+•	Lost item reporting and management
+•	Found item reporting and management
+•	Item search and matching
+•	Claim submission and verification
+•	User authentication and administration
+2.3 User Classes and Characteristics
+•	Students: Primary users, limited technical knowledge
+•	University Staff: Occasional users, varying technical knowledge
+•	Administrators: Manage system operations and verify claims
+2.4 Operating Environment
+•	Web browser-based interface (desktop and mobile responsive)
+•	Server-side processing with database storage
+•	Email notification system
+2.5 Constraints and Assumptions
+•	Internet connectivity required for system access
+•	Users must provide valid university email for registration
+•	Item images must be in supported formats (JPG, PNG)
+
